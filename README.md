@@ -1,27 +1,39 @@
-# Essentials
+# To-Do App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Development server
+## Introduction
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+The To-Do App is a simple and intuitive application built with Angular. It allows users to manage their daily tasks efficiently. The app provides functionalities to add, edit, and delete tasks, helping users stay organized.
 
-## Code scaffolding
+## Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Add Task**: Easily add new tasks to your to-do list.
+- **Edit Task**: Update the details of existing tasks.
+- **Delete Task**: Remove tasks that are no longer needed.
+- **Mark as Complete**: Mark tasks as completed to track progress.
+- **Filter Tasks**: View all, completed, or pending tasks.
 
-## Build
+## Technologies Used
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Angular**: A platform and framework for building single-page client applications using HTML and TypeScript.
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **Angular CLI**: A command-line interface tool to scaffold and build Angular apps.
+- **Bootstrap**: For responsive and mobile-first front-end web development.
 
-## Running unit tests
+## Installation
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+To run the To-Do App locally, follow these steps:
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Ammar-ALHardan/task-mangment
+   cd task-mangment
